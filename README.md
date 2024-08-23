@@ -1,4 +1,4 @@
-# Machine Learning Mini Project – Plant Disease Detection 
+# Machine Learning / Computer Vision Mini Project – Plant Disease Detection 
 ### Abstract:
 The integration of machine learning and computer vision in agriculture is transforming crop management by enabling precise
 and early disease detection. This project presents a comprehensive machine learning pipeline that leverages Convolutional Neural Networks (CNNs)
